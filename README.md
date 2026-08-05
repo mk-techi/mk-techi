@@ -5,7 +5,15 @@
      Username : mk-techi (déjà appliqué partout).
      ============================================================ -->
 
+<!-- Bannière animée (capsule-render, addon utilisé par les profils du repo d'inspiration) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:157A46,100:4353E8&height=190&section=header&text=%40mk-techi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Software%20Engineer%20%C2%B7%20Co-founder%20%40%20Selvio&descSize=16&descAlignY=58" alt="banner" />
+
 <div align="center">
+
+<!-- Compteur de vues du profil (komarev) -->
+<img src="https://komarev.com/ghpvc/?username=mk-techi&style=for-the-badge&color=157A46&label=PROFILE+VIEWS" alt="profile views" />
+
+<br/><br/>
 
 <!-- Header : texte qui se tape tout seul, comme le laptop pixel du portfolio -->
 <a href="https://github.com/mk-techi">
@@ -58,6 +66,15 @@ const mk = {
 
 </div>
 
+## ~/trophies
+
+<div align="center">
+
+<!-- Trophées (github-profile-trophy) -->
+<img src="https://github-profile-trophy.vercel.app/?username=mk-techi&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=157A46" alt="trophies" />
+
+</div>
+
 ## ~/stats
 
 <div align="center">
@@ -68,6 +85,15 @@ const mk = {
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mk-techi&theme=transparent&ring=3AC272&fire=4A7BF0&currStreakLabel=157A46&hide_border=true" alt="streak" />
+
+</div>
+
+## ~/activity
+
+<div align="center">
+
+<!-- Graphe d'activité (github-readme-activity-graph) aux couleurs du portfolio -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mk-techi&bg_color=00000000&color=6E7A73&line=3AC272&point=4A7BF0&area=true&area_color=157A46&hide_border=true&hide_title=true" alt="activity graph" width="100%" />
 
 </div>
 
@@ -88,3 +114,5 @@ const mk = {
 <div align="center">
 <sub><code>$ npm run dev</code> ▋ — outside of code, you'll find me watching my pages' Google rankings the way other people watch their stocks.</sub>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:157A46,100:4353E8&height=110&section=footer" alt="footer" />
