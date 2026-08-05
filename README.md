@@ -25,13 +25,13 @@
 
 <br/>
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
+<img align="right" width="320" src="assets/pixel-laptop.svg" alt="pixel laptop coding" />
 
 ## <samp>~/about</samp>
 
 <samp>
 
-**19-year-old fullstack developer** shipping real products, not tutorials.
+**19-year-old fullstack developer** based in France.
 
 - 🔭 Building **[Selvio](https://selvio.io)** — comparison pages that rank, deployed & monitored automatically
 - 🛠️ **Next.js · Nuxt · TypeScript** on the product side, **programmatic SEO** on the growth side
@@ -45,13 +45,13 @@
 
 ## <samp>~/currently</samp>
 
-```typescript
-const mk = {
-  building : "Selvio — programmatic SEO infrastructure",
-  shipping : ["mcp-seo-audit", "portfolio v2"],
-  learning : "C/C++ systems programming @ 42 Paris",
-  seeking  : "freelance missions · remote positions",
-} as const;
+```console
+mk-techi@dev:~$ status
+  ▸ building   Selvio — programmatic SEO infrastructure
+  ▸ shipping   mcp-seo-audit · portfolio v2
+  ▸ learning   C/C++ systems @ 42 Paris
+  ▸ open to    freelance · remote
+mk-techi@dev:~$ ▋
 ```
 
 ## <samp>~/projects</samp>
@@ -145,9 +145,5 @@ All-in-one productivity & health app on web, desktop and Android. AI coach, 3D d
 ───────────────────────────────────────────────────────────── -->
 
 <br/>
-
-<div align="center">
-<samp>$ npm run dev ▋ &nbsp;—&nbsp; outside of code, I watch my pages' Google rankings the way other people watch their stocks.</samp>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:157A46,50:2A9D8F,100:4353E8&height=120&section=footer" alt="" />
