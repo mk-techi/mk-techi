@@ -1,0 +1,30 @@
+<svg viewBox="0 0 36 25" width="340" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <style>
+    .l{opacity:0;animation:line 6s infinite}
+    .l2{animation-delay:.5s}.l3{animation-delay:1s}.l4{animation-delay:1.5s}.l5{animation-delay:2s}.l6{animation-delay:2.5s}
+    @keyframes line{0%{opacity:0}6%,75%{opacity:1}83%,100%{opacity:0}}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+  </style>
+  <!-- écran : liseré + cadre + dalle -->
+  <rect x="4" y="1" width="28" height="1" fill="#3D4A43"/>
+  <rect x="4" y="2" width="28" height="16" fill="#26332C"/>
+  <rect x="6" y="3" width="24" height="14" fill="#0B1220"/>
+  <!-- webcam -->
+  <rect x="17" y="2" width="1" height="1" fill="#3D4A43"/>
+  <!-- code qui s'écrit -->
+  <rect class="l" x="7" y="4" width="9" height="1" fill="#3AC272"/>
+  <rect class="l l2" x="9" y="6" width="6" height="1" fill="#4A7BF0"/>
+  <rect class="l l3" x="9" y="8" width="11" height="1" fill="#5A6660"/>
+  <rect class="l l4" x="9" y="10" width="5" height="1" fill="#4A7BF0"/>
+  <rect class="l l5" x="11" y="12" width="7" height="1" fill="#3AC272"/>
+  <rect class="l l6" x="7" y="14" width="4" height="1" fill="#3AC272"/>
+  <rect class="cur" x="12" y="14" width="1" height="1" fill="#3AC272"/>
+  <!-- charnière + base + touches + trackpad + tranche + LED -->
+  <rect x="3" y="18" width="30" height="1" fill="#3D4A43"/>
+  <rect x="2" y="19" width="32" height="2" fill="#26332C"/>
+  <rect x="4" y="19" width="1" height="1" fill="#3D4A43"/><rect x="6" y="19" width="1" height="1" fill="#3D4A43"/><rect x="8" y="19" width="1" height="1" fill="#3D4A43"/><rect x="10" y="19" width="1" height="1" fill="#3D4A43"/><rect x="12" y="19" width="1" height="1" fill="#3D4A43"/><rect x="14" y="19" width="1" height="1" fill="#3D4A43"/><rect x="16" y="19" width="1" height="1" fill="#3D4A43"/><rect x="18" y="19" width="1" height="1" fill="#3D4A43"/><rect x="20" y="19" width="1" height="1" fill="#3D4A43"/><rect x="22" y="19" width="1" height="1" fill="#3D4A43"/><rect x="24" y="19" width="1" height="1" fill="#3D4A43"/><rect x="26" y="19" width="1" height="1" fill="#3D4A43"/><rect x="28" y="19" width="1" height="1" fill="#3D4A43"/><rect x="30" y="19" width="1" height="1" fill="#3D4A43"/>
+  <rect x="14" y="21" width="8" height="1" fill="#3D4A43"/>
+  <rect x="1" y="21" width="34" height="1" fill="#26332C"/>
+  <rect x="33" y="21" width="1" height="1" fill="#3AC272"/>
+</svg>
