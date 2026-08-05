@@ -27,7 +27,7 @@
 
 ## <samp>About</samp>
 
-<img align="right" width="320" src="assets/pixel-laptop.svg" alt="pixel laptop coding" />
+<img align="right" width="320" src="pixel-laptop.svg" alt="pixel laptop coding" />
 
 <samp>
 
