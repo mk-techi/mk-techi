@@ -17,7 +17,7 @@
 &nbsp;&nbsp;
 <a href="https://x.com/mktechi0181"><img src="https://img.shields.io/badge/Follow-101915?style=for-the-badge&logo=x&logoColor=white" /></a>
 &nbsp;&nbsp;
-<a href="mailto:VOTRE-EMAIL"><img src="https://img.shields.io/badge/Email-157A46?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:moukhammad.arsamerzouev@gmail.com"><img src="https://img.shields.io/badge/Email-157A46?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
