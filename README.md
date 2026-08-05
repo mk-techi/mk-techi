@@ -13,13 +13,15 @@
 
 <br/><br/>
 
-<a href="https://selvio.io"><img src="https://img.shields.io/badge/⚡_Selvio-4353E8?style=for-the-badge&logoColor=white" /></a>
-&nbsp;
-<a href="https://x.com/mktechi0181"><img src="https://img.shields.io/badge/𝕏-101915?style=for-the-badge" /></a>
-&nbsp;
-<a href="mailto:VOTRE-EMAIL"><img src="https://img.shields.io/badge/✉_Contact-157A46?style=for-the-badge" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=mk-techi&style=for-the-badge&color=157A46&label=VIEWS" alt="views" />
+<a href="https://selvio.io"><img src="https://img.shields.io/badge/Selvio-4353E8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://x.com/mktechi0181"><img src="https://img.shields.io/badge/Follow-101915?style=for-the-badge&logo=x&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="mailto:VOTRE-EMAIL"><img src="https://img.shields.io/badge/Email-157A46?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mk-techi&style=flat-square&color=157A46&label=profile+views" alt="views" />
 
 </div>
 
