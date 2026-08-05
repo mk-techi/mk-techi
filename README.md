@@ -3,7 +3,7 @@
      Tout élément ici est fiable : pas de service qui casse.
      ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:157A46,50:2A9D8F,100:4353E8&height=220&section=header&text=%40mk-techi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=I%20build%20things%20%E2%80%94%20and%20get%20them%20ranked.&descSize=18&descAlignY=54&stroke=ffffff30&strokeWidth=1" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:157A46,50:2A9D8F,100:4353E8&height=220&section=header&text=%40mk-techi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=I%20build%20things.&descSize=18&descAlignY=54&stroke=ffffff30&strokeWidth=1" alt="" />
 
 <div align="center">
 
@@ -25,9 +25,9 @@
 
 <br/>
 
-<img align="right" width="320" src="pixel-laptop.svg" alt="pixel laptop coding" />
+## <samp>About</samp>
 
-## <samp>~/about</samp>
+<img align="right" width="320" src="assets/pixel-laptop.svg" alt="pixel laptop coding" />
 
 <samp>
 
@@ -43,7 +43,7 @@
 
 <br clear="right"/>
 
-## <samp>~/currently</samp>
+## <samp>Currently</samp>
 
 ```console
 mk-techi@dev:~$ status
@@ -54,7 +54,7 @@ mk-techi@dev:~$ status
 mk-techi@dev:~$ ▋
 ```
 
-## <samp>~/projects</samp>
+## <samp>Projects</samp>
 
 <table>
 <tr>
@@ -103,7 +103,7 @@ All-in-one productivity & health app on web, desktop and Android. AI coach, 3D d
 </tr>
 </table>
 
-## <samp>~/stack</samp>
+## <samp>Stack</samp>
 
 <div align="center">
 
@@ -121,7 +121,7 @@ All-in-one productivity & health app on web, desktop and Android. AI coach, 3D d
 
 </div>
 
-## <samp>~/activity</samp>
+## <samp>Activity</samp>
 
 <div align="center">
 
