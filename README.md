@@ -32,7 +32,7 @@ Co-founder of [Selvio](https://selvio.io). Student at 42 Paris. Available for re
 <!-- Liens rapides -->
 <a href="https://selvio.io"><img src="https://img.shields.io/badge/Selvio-4353E8?style=for-the-badge&logoColor=white" /></a>
 <a href="https://x.com/mktechi0181"><img src="https://img.shields.io/badge/X-101915?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:moukhammad.arsamerzouev@gmail.com"><img src="https://img.shields.io/badge/Email-157A46?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:VOTRE-EMAIL"><img src="https://img.shields.io/badge/Email-157A46?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -71,7 +71,7 @@ const mk = {
 <div align="center">
 
 <!-- Trophées (github-profile-trophy) -->
-<img src="https://github-profile-trophy.vercel.app/?username=mk-techi&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=157A46" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=mk-techi&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" alt="trophies" />
 
 </div>
 
@@ -79,8 +79,8 @@ const mk = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mk-techi&show_icons=true&theme=transparent&title_color=157A46&icon_color=3AC272&text_color=6E7A73&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-techi&layout=compact&theme=transparent&title_color=157A46&text_color=6E7A73&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mk-techi&show_icons=true&bg_color=00000000&title_color=157A46&icon_color=3AC272&text_color=6E7A73&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-techi&layout=compact&bg_color=00000000&title_color=157A46&text_color=6E7A73&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
