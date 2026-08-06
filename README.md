@@ -13,7 +13,9 @@
 
 <br/><br/>
 
-<a href="https://selvio.io"><img src="https://img.shields.io/badge/Selvio-4353E8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.moukhammad.dev"><img src="https://img.shields.io/badge/Portfolio-157A46?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://selvio.io"><img src="https://img.shields.io/badge/Selvio-4353E8?style=for-the-badge&logoColor=white" /></a>
 &nbsp;&nbsp;
 <a href="https://x.com/mktechi0181"><img src="https://img.shields.io/badge/Follow-101915?style=for-the-badge&logo=x&logoColor=white" /></a>
 &nbsp;&nbsp;
@@ -29,7 +31,7 @@
 
 ## <samp>About</samp>
 
-<img align="right" width="320" src="pixel-laptop.svg" alt="pixel laptop coding" />
+<img align="right" width="320" src="assets/pixel-laptop.svg" alt="pixel laptop coding" />
 
 <samp>
 
@@ -129,23 +131,18 @@ All-in-one productivity & health app on web, desktop and Android. AI coach, 3D d
 
 <img src="https://streak-stats.demolab.com?user=mk-techi&hide_border=true&background=00000000&ring=3AC272&fire=4A7BF0&currStreakLabel=157A46&currStreakNum=157A46&sideNums=157A46&sideLabels=6E7A73&dates=6E7A73" alt="streak" />
 
-<br/><br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=mk-techi&bg_color=00000000&color=6E7A73&line=3AC272&point=4A7BF0&area=true&area_color=157A46&hide_border=true&hide_title=true" alt="activity" />
-
 </div>
 
-<!-- ─────────────────────────────────────────────────────────────
-     SERPENT (optionnel) : décommente ce bloc UNIQUEMENT quand le
-     workflow Actions "generate contribution snake" est passé au vert.
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mk-techi/mk-techi/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/mk-techi/mk-techi/output/github-snake.svg" />
-</picture>
-</div>
-───────────────────────────────────────────────────────────── -->
 
 <br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mk-techi/mk-techi/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/mk-techi/mk-techi/output/github-snake.svg" />
+</picture>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:157A46,50:2A9D8F,100:4353E8&height=120&section=footer" alt="" />
