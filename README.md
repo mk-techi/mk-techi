@@ -21,6 +21,7 @@
 &nbsp;&nbsp;
 <a href="mailto:moukhammad.arsamerzouev@gmail.com"><img src="https://img.shields.io/badge/Email-157A46?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+<sub>moukhammad.arsamerzouev@gmail.com</sub>
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=mk-techi&style=flat-square&color=157A46&label=profile+views" alt="views" />
